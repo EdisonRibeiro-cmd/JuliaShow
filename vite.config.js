@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // Ex: se o repo é github.com/seu-usuario/plano-alimentar, use base: "/plano-alimentar/"
 export default defineConfig({
   plugins: [react()],
-  base: "/NOME-DO-REPOSITORIO/",
+  base: "/JuliaShow/",
 });
